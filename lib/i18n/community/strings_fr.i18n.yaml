@@ -140,7 +140,7 @@ login:
   form:
     useCustomServer: Je veux utiliser un serveur Nextcloud personnalisé
     customServerUrl: URL du serveur personnalisé
-    username: Nom d'utilisateur ou adresse mel
+    username: Nom d'utilisateur ou adresse e-mail
     ncPassword: Mot de passe Nextcloud
     encPassword: Mot de passe de cryptage
     agreeToPrivacyPolicy(rich): "En vous connectant, vous acceptez les ${linkToPrivacyPolicy(Privacy Policy)}."
